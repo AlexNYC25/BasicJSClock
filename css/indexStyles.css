@@ -1,0 +1,20 @@
+body{
+    background-color: plum;
+}
+
+#decleration{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+    
+}
+
+#timeLoc{
+    text-align: center;
+}
+
+#timeArea{
+    border-style: solid;
+    border-width: 15px;
+    border-color: black;
+}
